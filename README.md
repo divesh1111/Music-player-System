@@ -19,12 +19,11 @@ A full-stack music streaming application built with modern web technologies. Str
 ## ✨ Features
 
 - 🎶 **Music Streaming** - Stream your favorite songs with smooth playback
-- 👤 **User Authentication** - Secure login and registration with JWT tokens
+- 👤 **User Authentication** - Secure login and registration 
 - 🎼 **Music Library Management** - Browse artists, albums, genres, and tracks
 - 📝 **Playlist Creation** - Create and manage custom playlists
 - 🔍 **Advanced Search** - Search by song title, artist, or genre
-- 📊 **Music Analytics** - View statistics about your music library
-- 🎨 **Modern UI** - Responsive design with smooth animations using Framer Motion
+- 🎨 **Modern UI** - Responsive design with smooth animations 
 - 📱 **Responsive Design** - Works seamlessly on desktop and mobile devices
 
 ## 🛠️ Tech Stack
@@ -253,16 +252,6 @@ ORDER BY total_tracks DESC;
 - ESLint configuration for code consistency
 - TypeScript strict mode for type safety
 - Tailwind CSS for maintainable styling
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📝 License
 
